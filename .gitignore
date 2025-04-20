@@ -1,0 +1,6 @@
+.venv
+uv.lock
+_backups/
+__pycache__/
+.DS_Store
+.python-version
